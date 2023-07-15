@@ -14,7 +14,7 @@ python speaker_diarization.py https://www.youtube.com/***
 
 Put all the audios belonging to one speaker in a folder
 
-# 1 min chunk
+# Step 3 :  1 min chunk
 1min_chunk.py converts the collected data of speaker in  folder into 1 min chunks takes folder name as input 
 
 **Requirements**
